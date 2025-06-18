@@ -42,6 +42,17 @@ export const register = async (req, res, next) => {
   }
 };
 export const login = async (req, res) => {
+    
+  /*
+////TODO
+1.Validate body
+2.Check body
+3.Check Email in DB
+4.Check password
+5.Create token
+6.Respones
+  */
+
   // check body
   const { email, password } = req.body;
 
