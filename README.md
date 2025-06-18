@@ -11,3 +11,10 @@ npm i express
 ```bash
 npm i cors morgan nodemon
 ```
+
+## Git 
+```bash
+git add.
+git commit -m " message for commit"
+git push
+```
